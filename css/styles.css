@@ -1,0 +1,48 @@
+.text{
+    color: lightgrey;
+}
+
+.freeshipping{
+	background-color: black;
+	color: white;
+	position: absolute;
+	left: 119px;
+
+
+}
+
+.line{
+	width: 20px;
+	height: 1px;
+	background-color: orange;
+
+}
+
+.carts{
+	height: 50px;
+	background-color: black;
+	color: white;
+}
+
+.carts p{
+	padding-top: 10px;
+}
+
+.circle{
+	width: 35px;
+	height: 35px;
+	background-color: lightgrey;
+	border-radius: 50%;
+	padding-top: 4px;
+
+}
+
+.container{
+	padding: 40px;
+}
+
+.horizontalrow{
+	height: 25px;
+	background-color: black;
+	width: inherit;
+}
